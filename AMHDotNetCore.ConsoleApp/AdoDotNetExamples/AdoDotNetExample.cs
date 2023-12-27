@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AungMinHeinDotNetCore.ConsoleApp.AdoDotNetExamples
+namespace AMHDotNetCore.ConsoleApp.AdoDotNetExamples
 {
     internal class AdoDotNetExample
     {
