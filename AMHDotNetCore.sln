@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMHDotNetCore.ConsoleApp", "AMHDotNetCore.ConsoleApp\AMHDotNetCore.ConsoleApp.csproj", "{AAC1F972-7FAA-4A95-B14E-B2C598D70F68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{B4C47F16-D9C5-43C2-92CE-299162639828}"
+	ProjectSection(SolutionItems) = preProject
+		AMHDotNetCore.ConsoleApp\README.md = AMHDotNetCore.ConsoleApp\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC1F972-7FAA-4A95-B14E-B2C598D70F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC1F972-7FAA-4A95-B14E-B2C598D70F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC1F972-7FAA-4A95-B14E-B2C598D70F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC1F972-7FAA-4A95-B14E-B2C598D70F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C980B11-748E-44CE-8468-FCE009DA23FD}
+	EndGlobalSection
+EndGlobal
