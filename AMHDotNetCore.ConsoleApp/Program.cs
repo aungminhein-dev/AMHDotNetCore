@@ -1,16 +1,16 @@
 ﻿//F10 Summary
 //F11 Detail
 
-using AMHDotNetCore.ConsoleApp.AdoDotNetExamples;
-using AMHDotNetCore.ConsoleApp.DapperExamples;
+using AMHDotNetCore.ConsoleApp.EFCoreExamples;
 using System.Data;
 using System.Data.SqlClient;
 
 
 
-AdoDotNetExample adoDotNetExample = new AdoDotNetExample();
-DapperExample dapperExample = new DapperExample();
-dapperExample.Run();
+
+
+EFCoreExample efCoreExample = new EFCoreExample();
+efCoreExample.Run();
 
 
 
